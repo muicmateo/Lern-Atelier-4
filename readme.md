@@ -13,7 +13,7 @@ Mateo Muic
 
 ## 20.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich exklusiv an Modul 164 gearbeitet und nämlich an der Leistungsbeurteilung, weil die Abgabe diesen Donnerstag stattfindet und ich bin etwas knapp dran. Ich werde in den folgenden Tagen einen Projekt finden und die Grob-Planung  und Arbeitspakete schreiben, sodass ich nächste Woche direkt anfangen kann.  (47 Wörter)
 
 ## 27.2.2024
 
