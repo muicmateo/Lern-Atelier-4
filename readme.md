@@ -6,10 +6,12 @@ Mateo Muic
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP4?
+Wir haben seit der letzten Periode noch keine neue Noten bekommen also ist meine Antwort eigentlich gleich. 
+
+Ich habe letztes Mal herausgefunden, dass ich mehr im Voraus planen soll, weil ich dann realistischere Arbeitspakete mache und nicht so schnell wie möglich Arbeitspakete erfinde, sodass ich schneller fertig bin.
+
+Ich möchte einen Password Generator in WinForms programmieren. Die Benutzer können die Länge und die Zeichen, die sie im Password wollen, anpassen. Ich möchte auch einen Zusätzlichen Feature einfügen, bei welchen man einen Password eingibt, und dann sagt das Programm, ob dieser Password sicher ist oder nicht. 
+
 
 ## 20.2.2024
 
@@ -17,9 +19,23 @@ Mateo Muic
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Ich füge in die Benutzeroberfläche einen Feld, in welchen der Benutzer die Länge ihres Passworts eingeben können.
+- [ ] Einen Separaten Feld wo der Benutzer die Zeichen eingeben möchte, die sie im password wollen.
+- [ ] Einen Feld herstellen wo der Password generiert wird. Und einen Copy Button hinzufügen.
+- [ ] Einen speparaten Window machen, wo man alle generierte passwords sieht.
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |                      |                |                |          |
+| 2               |                      |                |                |          |
+| 3               |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+✍️ Heute habe ich... (50-100 Wörter)
+
+## 05.03.2024
+
+- [ ] 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -28,7 +44,6 @@ Mateo Muic
 | 4               |                      |                |                |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
-
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 
