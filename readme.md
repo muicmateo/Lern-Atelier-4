@@ -19,10 +19,10 @@ Ich möchte einen Password Generator in WinForms programmieren. Die Benutzer kö
 
 ## 27.2.2024
 
-- [ ] Ich füge in die Benutzeroberfläche einen Feld, in welchen der Benutzer die Länge ihres Passworts eingeben können.
-- [ ] Einen Separaten Feld wo der Benutzer die Zeichen eingeben möchte, die sie im password wollen.
-- [ ] Einen Feld herstellen wo der Password generiert wird. Und einen Copy Button hinzufügen.
-- [ ] Einen speparaten Window machen, wo man alle generierte passwords sieht.
+- [x] Ich füge in die Benutzeroberfläche einen Feld, in welchen der Benutzer die Länge ihres Passworts eingeben können.
+- [x] Einen Separaten Feld wo der Benutzer die Zeichen eingeben möchte, die sie im password wollen.
+- [x] Einen Feld herstellen wo der Password generiert wird. Und einen Copy Button hinzufügen.
+- [x] Einen speparaten Window machen, wo man alle generierte passwords sieht.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -31,11 +31,14 @@ Ich möchte einen Password Generator in WinForms programmieren. Die Benutzer kö
 | 3               |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich alle Arbeitspakete erledigt. Ich bin zufrieden, wie es bis jetzt aussieht. Ich habe nur 5 Special Characters ( !, #, %, @, $ ) verwendet, weil es sonst sehr viel Arbeit wäre, alle zu implementieren. Die Passwords können minimal 8 Characters haben und maximal 16. (48 Wörter)
 
 ## 05.03.2024
 
-- [ ] 
+- [ ] Den Textbox nur für nummern 8-16 begrenzen.
+- [ ] alles was im generatedPassword Textbox steht, soll in den Form 2 kopiert werden.
+- [ ] Wenn man den Copy Button drückt, wird alles was im Textbox steht kopiert auf dem PC.
+- [ ] Einen nicht fertigen generate hinzufügen, welche ohne special characters einen sehr kleinen password generiert. 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
