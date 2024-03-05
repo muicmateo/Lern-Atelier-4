@@ -37,8 +37,8 @@ Ich möchte einen Password Generator in WinForms programmieren. Die Benutzer kö
 
 - [ ] Den Textbox nur für nummern 8-16 begrenzen.
 - [ ] alles was im generatedPassword Textbox steht, soll in den Form 2 kopiert werden.
-- [ ] Wenn man den Copy Button drückt, wird alles was im Textbox steht kopiert auf dem PC.
-- [ ] Einen nicht fertigen generate hinzufügen, welche ohne special characters einen sehr kleinen password generiert. 
+- [x] Wenn man den Copy Button drückt, wird alles was im Textbox steht kopiert auf dem PC.
+- [x] Einen nicht fertigen generate hinzufügen, welche ohne special characters einen sehr kleinen password generiert. 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -46,9 +46,22 @@ Ich möchte einen Password Generator in WinForms programmieren. Die Benutzer kö
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Zuerst habe ich versucht, das Textfeld auf Zahlen zu beschränken, aber ich habe es nicht geschafft. Ich habe versucht, Code aus stackoverflow und verschiedene Foren zu kopieren. Ich habe auch code von chatgpt genommen aber keiner ging. Dann habe ich versucht, einen Text in der Textbox generatedPassword automatisch in das zweite Form zu kopieren, aber obwohl der Code im Internet einfach erschien, konnte ich ihn auch nicht zum Laufen bringen. Fast den ganzen Vormittag habe ich versucht, diese Arbeitspakete zu erledigen. Wenigstens habe ich zwei der 4 Pakete geschafft: Ich habe einen Copy to clipboard button hinzugefügt der funktioniert und ich habe einen Mini-Passwortgenerator hinzugefügt, der nur 4 Zeichen zufällig auswählt. (111 Wörter)
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
+## 12.03.2024
+
+- [ ] Den Textbox nur für nummern 8-16 begrenzen.
+- [ ] alles was im generatedPassword Textbox steht, soll in den Form 2 kopiert werden.
+- [ ] In den Test Generator die Special Characters hinzufügen
+- [ ] - 
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |                      |                |                |          |
+| ...             |                      |                |                |          |
+| 4               |                      |                |                |          |
 
 
 ## Reflexion
