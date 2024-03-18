@@ -63,6 +63,20 @@ Ich möchte einen Password Generator in WinForms programmieren. Die Benutzer kö
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
+✍️ Ich wollte weiter am Password generator arbeiten, aber nachdem ich herausgefunden habe das paar andere am Modul 106 arbeiten, habe ich mich auch entschieden dort weiter zu arbeiten. Das ist aber nicht der einzige Grund. Ich bin auch ziemlich weit hinten in M106 und wollte ein bisschen vorwärts kommen.
+
+## 19.03.2024
+
+- [ ] Den Textbox nur für nummern 8-16 begrenzen.
+- [ ] alles was im generatedPassword Textbox steht, soll in den Form 2 kopiert werden.
+- [ ] In den Test Generator die Special Characters hinzufügen
+- [ ] - 
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |                      |                |                |          |
+| ...             |                      |                |                |          |
+| 4               |                      |                |                |          |
 
 ## Reflexion
 
