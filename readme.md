@@ -80,7 +80,7 @@ Ich möchte einen Password Generator in WinForms programmieren. Die Benutzer kö
 
 ✍️Heute habe ich vor allem mit chatgpt gearbeitet. Ich habe als erstes die Special Characters hinzugefügt. Es funktioniert nicht so wie ich hoffte aber ist trotzdem immer noch gut. Danach habe ich die 8-16 Zeichen Begrenzung hinzugefügt. Das funktioniert sehr gut. Die Passwörter zu speichern habe ich nicht geschafft. 
 
-## 19.03.2024
+## 26.03.2024
 
 - [ ] alles was im generatedPassword Textbox steht, soll in den Form 2 kopiert werden.
 - [ ] UI verschönern
