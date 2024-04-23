@@ -97,4 +97,4 @@ Ich möchte einen Password Generator in WinForms programmieren. Die Benutzer kö
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Die Lern Periode 4 war ziemlich ok. Ich konnte nicht alles machen, was ich geplant hatte, aber ich habe auch vieles gelernt. Und ich konnte nicht alles machen, weil ich viel an den anderen Modulen gearbeitet habe. In Modul 106 war ich und bin immer noch sehr weit hinten. In der LP3 Reflexion habe ich gesagt es wäre besser, dass ich für mehrere Wochen im Voraus plane. Das habe ich leider nicht gemacht, eben weil ich wusste, nicht, ob ich die nächste Woche an Projekt arbeite oder an einem Modul. Für die Lern Periode 5 möchte ich Tutorials und Chatgpt so wenig wie möglich benutzen. (105 Wörter)
